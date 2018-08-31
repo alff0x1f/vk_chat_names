@@ -1,0 +1,2 @@
+# vk_chat_names
+export_chat_names_form_vk
